@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BewanBC
 - 👀 I’m interested in Business Central
-- 🌱 I’m currently learning ...
+- 🌱 I’m constantly in learning progress
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: businesscentral@bewan.be
 
