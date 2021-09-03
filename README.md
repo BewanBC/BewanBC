@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business Central
 - 🌱 I’m constantly in learning progress
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: businesscentral@bewan.be
+- 📫 How to reach me: see www.bewan.be
 
 <!---
 BewanBC/BewanBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
