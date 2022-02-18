@@ -1,0 +1,30 @@
+{
+  "id": "252143d1-2354-4600-9dd2-1c1e8b330d60",
+  "name": "Debugger",
+  "publisher": "be.wan s.p.r.l.",
+  "version": "19.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "application": "19.0.0.0",
+
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Debugger.com/help/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+    },
+  "runtime": "8.0"
+}

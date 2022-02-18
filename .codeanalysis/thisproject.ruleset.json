@@ -1,0 +1,22 @@
+{
+    "name": "Be.wan RuleSet",
+    "description": "Ignoring annoying warnings",
+    "rules": [
+        {
+            "id": "AA0008",
+            "action": "None"
+        },
+        {
+            "id": "AA0215",
+            "action": "None"
+        },
+        {
+            "id": "AA0218",
+            "action": "None"
+        },
+        {
+            "id": "AA0214",
+            "action": "None"            
+        }
+    ]
+}

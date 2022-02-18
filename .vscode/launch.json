@@ -1,0 +1,94 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "type": "al",
+        //     "request": "launch",
+        //     "name": "Production",
+        //     "server": "http://businesscentral.dynamics.com/",
+        //     "tenant": "637a0fd0-0705-4bdf-9766-d8f4a187b5e6",
+        //     "serverInstance": "Production",
+        //     //"sandboxName": "Sandbox",
+        //     //"authentication": "UserPassword",
+        //     "startupObjectId": 9300,
+        //     "startupObjectType": "Page",
+        //     "breakOnError": true,
+        //     "launchBrowser": true,
+        //     "enableLongRunningSqlStatements": true,
+        //     "enableSqlInformationDebugger": true,
+        //     "schemaUpdateMode": "Synchronize"    
+        // }
+        // {
+        //     "type": "al",
+        //     "request": "launch",
+        //     "name": "Sandbox bewan",
+        //     "server": "https://businesscentral.dynamics.com/",
+        //     "tenant": "ffd4f620-022a-4c36-8a23-1f17f7f05bba",
+        //     "environmentType": "Sandbox",
+        //     "environmentName": "SandboxCA",
+        //     "startupObjectId": 9300,
+        //     "startupObjectType": "Page",
+        //     "breakOnError": true,
+        //     "launchBrowser": true,
+        //     "schemaUpdateMode": "Synchronize"
+        // }              
+//         {
+//         "type": "al",
+//         "request": "launch",
+//         "name": "Certis Sandbox",//"Sandbox_ItemAttr",
+//         //"tenant": "de89f68a-5046-4b6b-a33d-dea6b8de3c54",
+//         "server": "https://businesscentral.dynamics.com/",
+//         "tenant": "608c7e6c-583b-408a-baaf-ee12f860e8e1",
+//         "environmentType": "Sandbox",
+//         "environmentName": "Sandbox20210209",
+//         "startupObjectId": 31,
+//         "startupObjectType": "Page",
+//         "breakOnError": true,
+//         "launchBrowser": true,
+//         "schemaUpdateMode": "ForceSync" 
+// },
+// {
+//     "type": "al",
+//     "request": "launch",
+//     "name": "Alvan Sandbox",//"Sandbox_ItemAttr",
+//     //"tenant": "de89f68a-5046-4b6b-a33d-dea6b8de3c54",
+//     "server": "https://businesscentral.dynamics.com/",
+//     "tenant": "de89f68a-5046-4b6b-a33d-dea6b8de3c54",
+//     "environmentType": "Sandbox",
+//     "environmentName": "SandboxWS",
+//     "startupObjectId": 31,
+//     "startupObjectType": "Page",
+//     "breakOnError": true,
+//     "launchBrowser": true,
+//     "schemaUpdateMode": "ForceSync"            
+// }
+        // {
+        //     "type": "al",
+        //     "request": "launch",
+        //     "name": "Sandbox Cinem",
+        //     "server": "https://businesscentral.dynamics.com/",
+        //     "tenant": "9a74bec5-02e8-4fd8-a20c-15e715930334",
+        //     "environmentType": "Sandbox",
+        //     "environmentName": "Sandbox",
+        //     "startupObjectId": 5906,
+        //     "startupObjectType": "Page",
+        //     "breakOnError": true,
+        //     "launchBrowser": true,
+        //     "schemaUpdateMode": "Synchronize"
+        // }              
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Sandbox Ivens",
+            "tenant": "bfe3f688-4e3c-4547-a112-42eec35627b3",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+        //"environmentName": "Sandbox2022-01-25",
+            "startupObjectId": 371,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "schemaUpdateMode": "Synchronize"
+        }             
+    ]
+}
