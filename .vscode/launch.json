@@ -69,26 +69,42 @@
         //     "server": "https://businesscentral.dynamics.com/",
         //     "tenant": "9a74bec5-02e8-4fd8-a20c-15e715930334",
         //     "environmentType": "Sandbox",
-        //     "environmentName": "Sandbox",
+        //     "environmentName": "SandboxDBug20220427",
         //     "startupObjectId": 5906,
         //     "startupObjectType": "Page",
         //     "breakOnError": true,
         //     "launchBrowser": true,
         //     "schemaUpdateMode": "Synchronize"
-        // }              
+        // }
+                      
         {
             "type": "al",
             "request": "launch",
-            "name": "Sandbox Ivens",
-            "tenant": "bfe3f688-4e3c-4547-a112-42eec35627b3",
+            "name": "Sandbox be.wan DEV",
+            "server": "https://businesscentral.dynamics.com/",
+            "tenant": "c9bf7077-cd7c-4ea7-a9f2-833ab3b6c25d",
             "environmentType": "Sandbox",
-            "environmentName": "Sandbox",
-        //"environmentName": "Sandbox2022-01-25",
-            "startupObjectId": 371,
+            "environmentName": "SandboxGLA",
+            "startupObjectId": 9300,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
             "schemaUpdateMode": "Synchronize"
-        }             
+        }              
+
+        // {
+        //     "type": "al",
+        //     "request": "launch",
+        //     "name": "Sandbox Ivens",
+        //     "tenant": "bfe3f688-4e3c-4547-a112-42eec35627b3",
+        //     "environmentType": "Sandbox",
+        //     "environmentName": "Sandbox",
+        // //"environmentName": "Sandbox2022-01-25",
+        //     "startupObjectId": 371,
+        //     "startupObjectType": "Page",
+        //     "breakOnError": true,
+        //     "launchBrowser": true,
+        //     "schemaUpdateMode": "Synchronize"
+        // }             
     ]
 }
